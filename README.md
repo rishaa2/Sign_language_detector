@@ -10,6 +10,8 @@ User-friendly Interface: Designed for ease of use, enabling seamless interaction
 Python,
 OpenCV,
 Mediapipe,
-Random Forest Algorithm
+Scikit-learn, 
+Random Forest Algorithm,
+NumPy
 # Usage
 Simply point your camera at your hands, and the system will detect and classify gestures based on predefined categories.
