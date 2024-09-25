@@ -7,9 +7,9 @@ Real-time Gesture Detection: The system processes video input to recognize gestu
 Random Forest Algorithm: Utilizes a Random Forest classifier to achieve robust performance and high accuracy in gesture classification.
 User-friendly Interface: Designed for ease of use, enabling seamless interaction with applications and devices through gestures.
 # Technologies Used
-Python
-OpenCV
-Mediapipe
+Python,
+OpenCV,
+Mediapipe,
 Random Forest Algorithm
 # Usage
 Simply point your camera at your hands, and the system will detect and classify gestures based on predefined categories.
